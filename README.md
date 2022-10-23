@@ -10,3 +10,9 @@ Features added were
 
 - Background soundtrack
 - In game different difficulties 
+
+### DISCLAIMER
+
+Unfortunately at the time I made this project i wasn't familiar in github, So I pushed everything in `main` and now the current last version is buggy and needs fixes, But tbh I am so lazy to fix them 😃😃
+
+Would be great if someone wants to contrinute and fix them
